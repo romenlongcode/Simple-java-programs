@@ -5,7 +5,7 @@
 pgm: hello.java
 
 2.Write a java program using if else statement.
-pgm :ifstatemeny.java
+pgm :ifstatemeny.javaa
 
 3.Write a java program using for loops.
 pgm : forloop1.java
