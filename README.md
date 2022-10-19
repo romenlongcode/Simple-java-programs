@@ -10,5 +10,5 @@ pgm :ifstatemeny.java
 3.Write a java program using for loops.
 pgm : forloop1.java
 
-4.Write a java program using while loop
+4.Write a java program using while loop.
 pgm : while1.java
