@@ -1,7 +1,7 @@
 # Simple-java-programs
 ####  Beginner level practice programs
 
-1.Write a Java program to print hello world.
+1.Write a Java program to print hello world
 pgm: hello.java
 
 2.Write a java program using if else statement
