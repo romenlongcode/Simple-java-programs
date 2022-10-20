@@ -4,7 +4,7 @@
 1.Write a Java program to print hello world.
 pgm: hello.java
 
-2.Write a java program using if else statement.
+2.Write a java program using if else statement
 pgm :ifstatemeny.java
 
 3.Write a java program using for loops
